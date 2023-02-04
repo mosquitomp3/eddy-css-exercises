@@ -1,0 +1,19 @@
+.ed {
+  background-color: hsl(303, 96%, 77%);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.ed.dy {
+  font-size= 24px;
+}
+
+#puri {
+  color: hsl(240, 96%, 77%);
+  font-size: 36px;
+}
+
+#fication {
+  background-color: hsl(120, 96%, 77%);
+  font-size 24px;
+  font-weight: bold;
+}
