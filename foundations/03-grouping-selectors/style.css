@@ -1,13 +1,14 @@
-.ed {
+.oneway
+.oranother {
   font-size= 28px;
   font-family= Helvetica, "Times New Roman", sans-serif;
 }
 
-.ed.dy {
+.oneway {
   color= #ffffff;
   background-color= #000000;
 }
 
-.ed.me {
+.oranother {
   background-color= hsl(60, 100%, 50%)
 }
