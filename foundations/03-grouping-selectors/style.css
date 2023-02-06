@@ -1,0 +1,13 @@
+.ed {
+  font-size= 28px;
+  font-family= Helvetica, Times New Roman, sans-serif;
+}
+
+.ed.dy {
+  color= #ffffff;
+  background-color= #000000;
+}
+
+.ed.me {
+  background-color= hsl(60, 100%, 50%)
+}
