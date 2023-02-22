@@ -13,6 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: ;
 }
 
 .modal {
@@ -20,6 +21,7 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  padding: 8px;
 }
 
 .icon {
@@ -34,6 +36,23 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+.top-bar {
+  display: flex;
+  gap: 16px;
+}
+
+.center-text div {
+  
+}
+
+.icon,
+.close-button {
+  flex: 0 0 auto;
+}
+
+
+
 
 .close-button {
   background: #eee;
