@@ -38,12 +38,31 @@ body {
 }
 
 .top-bar {
-  display: flex;
+  display:flex;
   gap: 16px;
 }
 
-.center-text div {
+.left-section {
   
+}
+
+.left-header {
+  display: flex;
+  align-items: center;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.header,
+.text {
+  margin: 8px;
+}
+
+.left-header .header {
+  flex: 1;
 }
 
 .icon,
